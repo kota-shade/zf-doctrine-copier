@@ -1,2 +1,2 @@
 # zf-doctrine-copier
-Clone doctrine enitys with their relations 
+Clone doctrine enities with their relations 
